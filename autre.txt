@@ -1,2 +1,2 @@
 ceci est un fichier txt de qualité
-version 01.01
+version 01.02
